@@ -2,7 +2,7 @@
 
 TODO: Refactor for publish as npm package
 
-Minimalist API for interacting with JSON data in the format. Currently it has `fs` and `underscore` as its dependencies. It's currently setup for use with `node` modules but can easily be modified to be independent of `node`.
+Minimalist API for interacting with JSON data in the following format: 
 
 ```json
 {
@@ -23,6 +23,8 @@ Minimalist API for interacting with JSON data in the format. Currently it has `f
   ]
 }
 ```
+
+Currently it has `fs` and `underscore` as its dependencies.
 
 ## The API has the following properties and methods:
 
