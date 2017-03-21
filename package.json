@@ -1,0 +1,24 @@
+{
+  "name": "json-crud",
+  "version": "1.0.0",
+  "description": "Minimalist API for interacting with JSON data backend",
+  "main": "JSON-crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preyes323/JSON-crud.git"
+  },
+  "keywords": [
+    "js",
+    "json",
+    "rest"
+  ],
+  "author": "Victor Paolo Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preyes323/JSON-crud/issues"
+  },
+  "homepage": "https://github.com/preyes323/JSON-crud#readme"
+}
